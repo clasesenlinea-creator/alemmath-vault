@@ -1,0 +1,4 @@
+# INFORMAR UBIACION PARA ENTREVISTA
+
+Date Created: December 4, 2025 8:48 PM
+Status: To Do

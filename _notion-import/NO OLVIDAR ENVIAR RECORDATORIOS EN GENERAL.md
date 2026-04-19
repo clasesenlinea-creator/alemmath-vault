@@ -1,0 +1,4 @@
+# NO OLVIDAR ENVIAR RECORDATORIOS EN GENERAL
+
+Date Created: November 4, 2024 11:22 PM
+Status: To Do

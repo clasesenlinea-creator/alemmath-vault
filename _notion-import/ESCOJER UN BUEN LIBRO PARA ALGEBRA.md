@@ -1,0 +1,5 @@
+# ESCOJER UN BUEN LIBRO PARA ALGEBRA
+
+Date Created: October 15, 2024 10:02 AM
+Priority: IMPORTANTE!!!
+Status: To Do

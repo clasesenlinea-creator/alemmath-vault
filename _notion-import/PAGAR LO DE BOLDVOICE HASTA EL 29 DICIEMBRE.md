@@ -1,0 +1,4 @@
+# PAGAR LO DE BOLDVOICE HASTA EL 29 DICIEMBRE
+
+Date Created: December 22, 2025 11:48 PM
+Status: To Do

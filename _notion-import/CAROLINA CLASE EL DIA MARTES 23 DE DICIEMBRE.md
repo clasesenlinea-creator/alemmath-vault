@@ -1,0 +1,4 @@
+# CAROLINA CLASE EL DIA MARTES 23 DE DICIEMBRE
+
+Date Created: December 21, 2025 10:44 PM
+Status: To Do

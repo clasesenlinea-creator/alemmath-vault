@@ -1,0 +1,4 @@
+# BUSCAR UNA FORMA DE MEJORAR LA MEMORIA
+
+Date Created: October 21, 2024 11:44 PM
+Status: To Do

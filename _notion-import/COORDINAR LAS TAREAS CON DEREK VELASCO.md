@@ -1,0 +1,4 @@
+# COORDINAR LAS TAREAS CON DEREK VELASCO
+
+Date Created: December 21, 2025 10:47 PM
+Status: To Do

@@ -1,0 +1,4 @@
+# CONSULTAR RECOPILACIOND DE EXAMENES DE ORURO
+
+Date Created: November 20, 2025 11:00 AM
+Status: To Do

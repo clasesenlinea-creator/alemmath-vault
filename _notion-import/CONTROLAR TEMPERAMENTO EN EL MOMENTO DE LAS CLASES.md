@@ -1,0 +1,5 @@
+# CONTROLAR TEMPERAMENTO EN EL MOMENTO DE LAS CLASES
+
+Date Created: October 15, 2024 9:56 AM
+Priority: IMPORTANTE!!!
+Status: To Do

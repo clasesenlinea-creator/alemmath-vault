@@ -1,0 +1,4 @@
+# COORDINAR UNA CLASE DE MOTIVACION
+
+Date Created: December 21, 2025 10:44 PM
+Status: To Do

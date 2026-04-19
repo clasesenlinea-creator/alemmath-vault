@@ -1,0 +1,4 @@
+# COMPRAR CAMARA WEB Y MICROFONO BUENO
+
+Date Created: December 22, 2025 11:48 PM
+Status: To Do

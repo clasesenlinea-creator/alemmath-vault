@@ -1,3 +1,6 @@
+# Notion export raw (solo se necesita _notion-import/ que ya tiene los md limpios)
+exportdenotionAlemMath/extracted/
+
 # Obsidian — cache y workspace local (no sincronizar entre computadoras)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json

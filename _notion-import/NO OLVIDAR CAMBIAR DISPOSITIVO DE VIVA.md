@@ -1,0 +1,4 @@
+# NO OLVIDAR CAMBIAR DISPOSITIVO DE VIVA
+
+Date Created: October 15, 2024 9:54 AM
+Status: To Do

@@ -1,0 +1,4 @@
+# TERMINAR LA U TRATANDO DE IR A CLASES
+
+Date Created: October 15, 2024 10:07 AM
+Status: To Do

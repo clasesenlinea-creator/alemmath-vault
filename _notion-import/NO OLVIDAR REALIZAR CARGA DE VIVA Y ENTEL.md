@@ -1,0 +1,4 @@
+# NO OLVIDAR REALIZAR CARGA DE VIVA Y ENTEL
+
+Date Created: October 15, 2024 9:54 AM
+Status: Done 🙌

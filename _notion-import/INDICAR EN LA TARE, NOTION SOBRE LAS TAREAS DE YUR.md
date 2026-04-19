@@ -1,0 +1,4 @@
+# INDICAR EN LA TARE, NOTION SOBRE LAS TAREAS DE YUREM
+
+Date Created: November 24, 2025 11:11 AM
+Status: To Do

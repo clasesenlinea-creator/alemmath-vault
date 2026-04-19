@@ -1,0 +1,4 @@
+# PREGUNTAR A JOSE SOBRE EL DISE;O GRAFICO
+
+Date Created: November 11, 2025 10:06 PM
+Status: To Do

@@ -1,0 +1,4 @@
+# CREAR UN VIDEO SOBRE EL USO DE NUMEROS DECIMALES
+
+Date Created: December 21, 2025 10:44 PM
+Status: To Do

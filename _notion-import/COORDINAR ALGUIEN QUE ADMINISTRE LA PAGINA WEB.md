@@ -1,0 +1,4 @@
+# COORDINAR ALGUIEN QUE ADMINISTRE LA PAGINA WEB
+
+Date Created: November 11, 2025 10:06 PM
+Status: To Do

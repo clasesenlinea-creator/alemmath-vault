@@ -1,0 +1,4 @@
+# DEFINIR LOS TRABAJOS QUE SE DEBEN REALIZAR
+
+Date Created: November 11, 2025 10:05 PM
+Status: To Do
