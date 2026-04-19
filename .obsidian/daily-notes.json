@@ -1,0 +1,6 @@
+{
+  "folder": "50-Vida-Personal/Diario",
+  "template": "Templates/template-daily",
+  "dateFormat": "YYYY-MM-DD dddd",
+  "autorun": false
+}

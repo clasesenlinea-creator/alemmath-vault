@@ -1,0 +1,19 @@
+# Obsidian — cache y workspace local (no sincronizar entre computadoras)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# Attachments grandes (opcional — comentar si quieres sincronizarlos)
+# _attachments/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales
+*.tmp
+*.bak
+*.swp
+~$*
