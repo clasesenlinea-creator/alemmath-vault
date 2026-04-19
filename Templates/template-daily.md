@@ -1,25 +1,27 @@
-# {{date:YYYY-MM-DD dddd}}
+# {{date:dddd D [de] MMMM, YYYY}}
 
 ## Foco del dia
-> ¿Cual es la cosa mas importante que tengo que hacer hoy?
+> Una sola cosa que si hago hoy, el dia fue exitoso:
 
 
-## Pendientes
-- [ ] 
-- [ ] 
-- [ ] 
+## Tareas de hoy
+- [ ] @alemmath 
+- [ ] @umss 
+- [ ] @vida 
 
-## Clases de hoy
-| Hora | Grupo | Tema |
-|------|-------|------|
-|      |       |      |
-
-## Notas del dia
+## Capturas del dia
+> Ideas, cosas que aparecen, no filtres nada
 
 
-## Reflexion (fin del dia)
+## Reflexion (noche)
 **¿Que salio bien?**
 
-**¿Que mejorar?**
+**¿Que no hice y por que?**
 
-**Nivel de energia (1-10):**
+**¿Que aprendi hoy?**
+
+## Manana
+> Las 3 cosas mas importantes de manana:
+1. 
+2. 
+3. 
